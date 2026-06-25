@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="IsItVuln Logo" width="220">
 </p>
 
-# IsItVuln — Sistema RAG Offline para Análise de Vulnerabilidades em Código
+# IsItVuln - Sistema RAG Offline para Análise de Vulnerabilidades em Código
 
 O **IsItVuln** é um sistema local baseado em *Retrieval-Augmented Generation (RAG)* capaz de analisar código e identificar vulnerabilidades com base em documentação técnica fornecida pelo utilizador (ex.: OWASP, CWE, RFCs, etc.).  
 Todo o processamento é **100% local e offline**, incluindo embeddings e inferência do modelo LLM.
